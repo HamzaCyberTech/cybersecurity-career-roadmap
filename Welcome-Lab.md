@@ -26,4 +26,4 @@ Completed the Welcome lab to understand how the TryHackMe platform works and how
 - Proper environment setup ensures smooth execution of future labs.
 - Understanding the workflow early reduces errors and improves efficiency.
 
-![Welcome-lab]()
+![Welcome-lab](https://github.com/HamzaCyberTech/cybersecurity-career-roadmap/blob/main/Welcome-Badge.png)
