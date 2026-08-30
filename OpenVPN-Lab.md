@@ -28,4 +28,4 @@ Completed the OpenVPN lab to learn how to securely connect to virtual private ne
 - Proper configuration and troubleshooting skills are essential for reliable lab access.
 - Understanding VPN tunnels reinforces knowledge of secure remote networking.
 
-![OpenVpn]()
+![OpenVpn](https://github.com/HamzaCyberTech/cybersecurity-career-roadmap/blob/main/OpenVpn%20Badge.png)
